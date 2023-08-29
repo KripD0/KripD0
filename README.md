@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KripD0
+- 👋 Hi, I’m @KripDo
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java, Spring Framework, Database, Web, GameDev.
+- 🌱 I’m currently learning Java, Spring Framework, Hibernate, Database, Web, GameDev.
 - Trying to become a senior in java.
